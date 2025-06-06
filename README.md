@@ -98,7 +98,9 @@ generate()
 
 ## 📜 License
 
-MIT License. See the `LICENSE` file for more details.
+[MIT License](LICENSE) – See the LICENSE file for more details.
+
+
 
 ---
 
